@@ -1,6 +1,7 @@
 # Recursos
 ## Hardware
 * Imágenes de conectores para el ordenador [link](http://orig00.deviantart.net/1ddc/f/2009/203/1/c/computer_hardware_poster_1_7_by_sonic840.png "Imágenes de conectores y puertos")
+
 ## Writer
 Manuales en castellano y con licencia CCBYSA
 * Ricardo Gabriel Berlasso, _Domando al escritor_ (LibreOffice Writer 5.0 y 5.1)
