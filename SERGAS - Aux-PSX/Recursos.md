@@ -5,8 +5,8 @@
 
 ## Sotware
 * LibreOffice 4.2.4.2![alt-text](https://wiki.documentfoundation.org/images/3/33/LibreOffice_external_logo.svg "Logo LibreOffice")
-** Programa LibreOffice ofrecido por la EGAP
-** LibreOffice 4.2.4.2[enlace](http://egap.xunta.gal/temarios/temariosPorCategoria/13 "LibreOffice 4.2.4.2 EGAP")
+..* Programa LibreOffice ofrecido por la EGAP
+..* LibreOffice 4.2.4.2[enlace](http://egap.xunta.gal/temarios/temariosPorCategoria/13 "LibreOffice 4.2.4.2 EGAP")
 
 ## Writer
 Manuales en castellano y con licencia __CCBYSA__
