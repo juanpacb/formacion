@@ -4,9 +4,9 @@
 + Imágenes de conectores para el ordenador (Versión 2016) [enlace](http://sonic840.deviantart.com/art/Computer-Hardware-Chart-2-0-587798335 "Imágenes de conectores y puertos v2.0")
 
 ## Sotware
-+ ![alt-text](https://wiki.documentfoundation.org/images/5/58/LibreOffice_external_logo_100px.png "Logo LibreOffice") 4.2.4.2
++ ![alt-text](https://wiki.documentfoundation.org/images/5/58/LibreOffice_external_logo_100px.png "Logo LibreOffice")
   - Programa LibreOffice ofrecido por la EGAP
-  - LibreOffice 4.2.4.2 [enlace](http://egap.xunta.gal/temarios/temariosPorCategoria/13 "LibreOffice 4.2.4.2 EGAP")
+    - LibreOffice 4.2.4.2 [enlace](http://egap.xunta.gal/temarios/temariosPorCategoria/13 "LibreOffice 4.2.4.2 EGAP")
 
 ## Writer
 Manuales en castellano y con licencia __CCBYSA__
