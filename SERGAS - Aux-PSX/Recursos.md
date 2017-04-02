@@ -9,8 +9,8 @@
     - Versión de LibreOffice ofrecida y alojada en la EGAP
 
 ## Writer
-Manuales en castellano y con licencia __CCBYSA__
-+ Ricardo Gabriel Berlasso, _Domando al escritor_ (LibreOffice Writer 5.0 y 5.1)
+Manuales en castellano y con licencia __Creative commons__
++ Ricardo Gabriel Berlasso, _Domando al escritor_ (LibreOffice Writer 5.0 y 5.1)(__CCBYSA__)
 [enlace](https://elpinguinotolkiano.files.wordpress.com/2016/04/domandoalescritor-2016.pdf "Ricardo Gabriel Berlasso - Domando al escritor")
-+ LibreOffice, _Primeros pasos con LibreOffice 3.3_
++ LibreOffice, _Primeros pasos con LibreOffice 3.3_(__CCBY__)
 [enlace](https://wiki.documentfoundation.org/images/b/b9/0100GS3-PrimerosPasosConLibO.pdf "LibreOffice - Primeros pasos con LibreOffice 3.3")
