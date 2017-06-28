@@ -14,7 +14,9 @@ Manuales en castellano y con licencia __Creative Commons__
 [enlace](https://elpinguinotolkiano.files.wordpress.com/2016/04/domandoalescritor-2016.pdf "Ricardo Gabriel Berlasso - Domando al escritor")
 + LibreOffice, _Primeros pasos con LibreOffice 3.3_ (__CCBY__)
 [enlace](https://wiki.documentfoundation.org/images/b/b9/0100GS3-PrimerosPasosConLibO.pdf "LibreOffice - Primeros pasos con LibreOffice 3.3")
-+ [enlace](https://wiki.documentfoundation.org/images/8/8d/0104GS3-PrimerosPasosConWriter.pdf "LibreOffice - Primeros pasos con Writer 5.2")
++ LibreOffice, _Primeros pasos con Writer 5.2_ (__CCBY__)
+[enlace](https://wiki.documentfoundation.org/images/8/8d/0104GS3-PrimerosPasosConWriter.pdf "LibreOffice - Primeros pasos con Writer 5.2")
 
 ## Calc
-+[enlace](https://wiki.documentfoundation.org/images/0/05/0105GS3-PrimerosPasosConCalc.pdf "LibreOffice - Primeros pasos con Calc 5.2")
++ LibreOffice, _Primeros pasos con Calc 5.2_ (__CCBY__)
+[enlace](https://wiki.documentfoundation.org/images/0/05/0105GS3-PrimerosPasosConCalc.pdf "LibreOffice - Primeros pasos con Calc 5.2")
