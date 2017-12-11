@@ -14,10 +14,13 @@
 ## Administración electrónica
 
 * Guías básicas de implementación de la administración electrónica
-  * _Leyes 39/2015 y 40/2015. Preguntas frecuentes_. Ministerio de Hacienca y Función Pública, 2017 (2º Edición). Licencia: CCBYSA [enlace](http://www.minhafp.gob.es/Documentacion/Publico/PortalVarios/Nuevas_leyes_administrativas/FAQs%20LEY%2039-2015%20LEY%2040-2015.pdf "Leyes 39/2015 y 40/2015. Preguntas frecuentes")
+  * _Leyes 39/2015 y 40/2015. Preguntas frecuentes_. Ministerio de Hacienca y Función Pública, 2017 (2º edición). Licencia: CCBYSA [enlace](http://www.minhafp.gob.es/Documentacion/Publico/PortalVarios/Nuevas_leyes_administrativas/FAQs%20LEY%2039-2015%20LEY%2040-2015.pdf "Leyes 39/2015 y 40/2015. Preguntas frecuentes")
   * _Guía ¡Digitalíza-T!_ Dirección de Tecnologías de la Información y las Comunicaciones (DTIC). 2016 (1ª edición). Licencia: CCBYSA [enlace](https://administracionelectronica.gob.es/pae_Home/dam/jcr:5d75e090-c719-4d27-8027-ba09451f20fd/GUIA-PARA-EELL-PARA-EL-CUMPLIMIENTO-DIGITAL-DE-LAS-NUEVAS-LEYES-ADMINISTRATIVAS.pdf "Guía ¡Digitalíza-T!")
+  * _Catálogo de servicios de la Administración digital_. Ministerio de Hacienda y Función Pública, 2017 (2ª edición). Licencia: CCBYSA [enlace](https://administracionelectronica.gob.es/pae_Home/dam/jcr:5d070807-d512-4452-b080-0c766681d651/Catalogo_servicios_administracion_digital_v2.pdf "Catálogo de servicios de Administración digital")
 * Sitios webs para el desarrollo de la administración electrónica:
   * PAG - Punto de acceso general [enlace](https://administracion.gob.es "Punto de acceso general")
+  * PAG - Sede electrónica del PAG [enlace](https://sede.administracion.gob.es/ "Sede electrónica del PAG")
+  * acceda - Sede electrónica de las administraciones públicas [enlace](https://sede.administracionespublicas.gob.es/ "acceda - Sede electrónica de las administraciones públicas")
   * PAe - Portal de administración electrónica [enlace](https://administracionelectronica.gob.es/pae_Home "PAe Portal administración electrónica")
   * VALIDe - Aplicación de VALIdación de firma y certificados Online y Demostrador de servicios de @firma [enlace](https://valide.redsara.es/valide)
   * Portal de Firma electrónica (PAe) [enlace](http://firmaelectronica.gob.es/ "Portal para aprender a utilizar la firma electrónica para ciudadanos, empresas y empleados públicos")
