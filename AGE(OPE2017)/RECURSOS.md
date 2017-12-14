@@ -17,7 +17,7 @@
   * _Leyes 39/2015 y 40/2015. Preguntas frecuentes_. Ministerio de Hacienda y Función Pública, 2017 (2ª edición). Licencia: CCBYSA [enlace](http://www.minhafp.gob.es/Documentacion/Publico/PortalVarios/Nuevas_leyes_administrativas/FAQs%20LEY%2039-2015%20LEY%2040-2015.pdf "Leyes 39/2015 y 40/2015. Preguntas frecuentes")
   * _Guía ¡Digitalíza-T!_ Dirección de Tecnologías de la Información y las Comunicaciones (DTIC). 2016 (1ª edición). Licencia: CCBYSA [enlace](https://administracionelectronica.gob.es/pae_Home/dam/jcr:5d75e090-c719-4d27-8027-ba09451f20fd/GUIA-PARA-EELL-PARA-EL-CUMPLIMIENTO-DIGITAL-DE-LAS-NUEVAS-LEYES-ADMINISTRATIVAS.pdf "Guía ¡Digitalíza-T!")
   * _Catálogo de servicios de la Administración digital_. Ministerio de Hacienda y Función Pública, 2017 (2ª edición). Licencia: CCBYSA [enlace](https://administracionelectronica.gob.es/pae_Home/dam/jcr:5d070807-d512-4452-b080-0c766681d651/Catalogo_servicios_administracion_digital_v2.pdf "Catálogo de servicios de Administración digital")
-* Sitios webs para el desarrollo de la administración electrónica:
+* Sitios webs para el desarrollo, implementación y empleo de la administración electrónica:
   * PAG - Punto de acceso general [enlace](https://administracion.gob.es "Punto de acceso general")
   * PAG - Sede electrónica del PAG [enlace](https://sede.administracion.gob.es/ "Sede electrónica del PAG")
   * Mi Carpeta - Carpeta ciudadana - [enlace](http://sede.administracion.gob.es/carpeta "Mi Carpeta")
