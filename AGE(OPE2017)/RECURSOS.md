@@ -20,6 +20,7 @@
 * Sitios webs para el desarrollo de la administración electrónica:
   * PAG - Punto de acceso general [enlace](https://administracion.gob.es "Punto de acceso general")
   * PAG - Sede electrónica del PAG [enlace](https://sede.administracion.gob.es/ "Sede electrónica del PAG")
+  * Mi Carpeta (Carpeta ciudadana) [enlace](http://sede.administracion.gob.es/carpeta "Mi Carpeta")
   * acceda - Sede electrónica de las administraciones públicas [enlace](https://sede.administracionespublicas.gob.es/ "acceda - Sede electrónica de las administraciones públicas")
   * PAe - Portal de administración electrónica [enlace](https://administracionelectronica.gob.es/pae_Home "PAe Portal administración electrónica")
   * VALIDe - Aplicación de VALIdación de firma y certificados Online y Demostrador de servicios de @firma [enlace](https://valide.redsara.es/valide)
