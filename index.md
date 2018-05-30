@@ -3,7 +3,7 @@
 ## Xunta
 Archivos y recursos para Xunta
 * Auxiliar Xunta
- * Ejercicios
+  *Ejercicios
     *LibreOffice Writer 5.4 [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA/EJERCICIOS/WRITER%205)
 ## SERGAS
 Archivos y recursos para SERGAS [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS)
