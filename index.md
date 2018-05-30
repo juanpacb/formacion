@@ -3,7 +3,7 @@
 ## AGE
 
 ## Concello Lugo
-* Auxiliar Administrativo
+* Auxiliar Administrativo [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO)
   * Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
   * Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
 ## SERGAS
@@ -18,7 +18,7 @@ Archivos y recursos para SERGAS [enlace](https://github.com/juanpacb/formacion/t
   * Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES/PRESENTACIONES)
 
 ## Xunta
-Archivos y recursos para Xunta
+Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA)
 * Auxiliar Xunta
   * Ficha oposición libre [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/05/Xunta-funcionarios-c2-auxiliar-administrativo-libre_OPE2016_2017.pdf)
   * Ejercicios
