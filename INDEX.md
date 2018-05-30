@@ -1,14 +1,16 @@
 # Formación
+
+## AGE
+Archivos y recursos para Administración General del Estado
 * Auxiliar Administrativo
   * Ficha oposición (libre)
   * Presentaciones
   * Ejercicios
   * Cuestionarios
   * Recursos
-
-## AGE
-
+  
 ## Concello Lugo
+Archivos y recursos para Concello de Lugo
 * Auxiliar Administrativo [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO)
   * Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
   * Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
