@@ -1,4 +1,10 @@
 # Formación
+* Auxiliar Administrativo
+  * Ficha oposición (libre)
+  * Presentaciones
+  * Ejercicios
+  * Cuestionarios
+  * Recursos
 
 ## AGE
 
@@ -6,7 +12,6 @@
 * Auxiliar Administrativo [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO)
   * Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
   * Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
-  * Un archivo para descargar [enlace](https://github.com/juanpacb/formacion/blob/master/XUNTA/EJERCICIOS/WRITER%205/13%20-%20ESTILOS/low5_est_B03_txt.odt?raw=true)
   
 ## SERGAS
 Archivos y recursos para SERGAS [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS)
