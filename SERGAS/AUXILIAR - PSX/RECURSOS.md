@@ -8,8 +8,8 @@
 ## Sotware
 
 - ![alt-text](https://wiki.documentfoundation.org/images/5/58/LibreOffice_external_logo_100px.png "Logo LibreOffice")
-  - LibreOffice 4.2.4.2 [enlace](http://egap.xunta.gal/temarios/temariosPorCategoria/13 "LibreOffice 4.2.4.2 EGAP")
-    - Versión de LibreOffice ofrecida y alojada en la EGAP
+  - LibreOffice 5.4.4.2 [enlace](https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.4.2/win/x86_64/LibreOffice_5.4.4.2_Win_x64.msi "LibreOffice 5.4.5.4")
+    - Versión de LibreOffice ofrecida y alojada en LibreOffice.org
 
 ## Writer
 
