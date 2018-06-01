@@ -45,5 +45,5 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 * Ejercicios
   * LibreOffice Writer 5.4 [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA/EJERCICIOS/WRITER%205)
   * Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
-  * Cuestionarios [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/CUESTIONARIOS.md)
+  * Simulacros Writer [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA/EJERCICIOS/WRITER%205/00%20-%20CUESTIONARIOS)
   * Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
