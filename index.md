@@ -23,7 +23,7 @@
 
 ## SERGAS
 
-`Archivos y recursos para SERGAS [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS)`
+`Archivos y recursos para SERGAS`
 
 ### Auxiliar/PSX [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX)
 
