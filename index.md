@@ -49,6 +49,5 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 * Ficha oposición libre [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/05/Xunta-funcionarios-c2-auxiliar-administrativo-libre_OPE2016_2017.pdf)
 * Ejercicios
   * LibreOffice Writer 5.4 [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA/EJERCICIOS/WRITER%205)
-* Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
 * Simulacros Writer [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA/EJERCICIOS/WRITER%205/00%20-%20CUESTIONARIOS)
 * Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
