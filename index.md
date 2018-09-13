@@ -10,8 +10,8 @@
 * Presentaciones
 * Ejercicios
   * Word 2010 [enlace](http://bit.ly/2Mr3Azp)
-  * Excel 2010 [enlace]()
-  * Access 2010 [enlace]()
+  * Excel 2010 [enlace](http://bit.ly/2N7T0m6)
+  * Access 2010 [enlace](http://bit.ly/2Nd0i87)
 * Cuestionarios
 * Recursos
 
