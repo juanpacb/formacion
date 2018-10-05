@@ -1,19 +1,19 @@
 # Recursos
- 
+
 ## Hardware
 
-* Imágenes de conectores para el ordenador (Versión 2009) [enlace](http://orig00.deviantart.net/1ddc/f/2009/203/1/c/computer_hardware_poster_1_7_by_sonic840.png "Imágenes de conectores y puertos v1.7")
-* Imágenes de conectores para el ordenador (Versión 2016) [enlace](http://sonic840.deviantart.com/art/Computer-Hardware-Chart-2-0-587798335 "Imágenes de conectores y puertos v2.0")
+- Imágenes de conectores para el ordenador (Versión 2009) [enlace](http://orig00.deviantart.net/1ddc/f/2009/203/1/c/computer_hardware_poster_1_7_by_sonic840.png "Imágenes de conectores y puertos v1.7")
+- Imágenes de conectores para el ordenador (Versión 2016) [enlace](http://sonic840.deviantart.com/art/Computer-Hardware-Chart-2-0-587798335 "Imágenes de conectores y puertos v2.0")
 
 ## Sotware
 
 - ![alt-text](https://wiki.documentfoundation.org/images/5/58/LibreOffice_external_logo_100px.png "Logo LibreOffice")
-  - LibreOffice 5.4.4.2 [enlace](https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.4.2/win/x86_64/LibreOffice_5.4.4.2_Win_x64.msi "LibreOffice 5.4.5.4")
+  - LibreOffice Versión Estable Oficial (6.1+) [enlace](http://bit.ly/2yeQHDy "LibreOffice Versión Estable Oficial (6.1+)")
     - Versión de LibreOffice ofrecida y alojada en LibreOffice.org
 
 ## Writer
 
-Manuales en castellano y con licencia __Creative Commons__
+Manuales en castellano y con licencia **Creative Commons**
 
 - Ricardo Gabriel Berlasso, _Domando al escritor_ (LibreOffice Writer 5.0 y 5.1). Edición 2016. Licencia: CCBYSA [enlace](https://elpinguinotolkiano.files.wordpress.com/2016/04/domandoalescritor-2016.pdf "Ricardo Gabriel Berlasso - Domando al escritor")
 
