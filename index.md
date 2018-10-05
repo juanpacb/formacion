@@ -6,7 +6,7 @@
 
 ### Auxiliar Administrativo
 
-- Ficha oposición (libre)[enlace](http://bit.ly/2IEmIJT)
+- Ficha oposición (libre) [enlace](http://bit.ly/2IEmIJT)
 - Presentaciones
 - Ejercicios
   - Word 2010 [enlace](http://bit.ly/2Mr3Azp)
