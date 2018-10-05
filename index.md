@@ -6,23 +6,14 @@
 
 ### Auxiliar Administrativo
 
-* Ficha oposición (libre)
-* Presentaciones
-* Ejercicios
-  * Word 2010 [enlace](http://bit.ly/2Mr3Azp)
-  * Excel 2010 [enlace](http://bit.ly/2N7T0m6)
-  * Access 2010 [enlace](http://bit.ly/2Nd0i87)
-* Cuestionarios
-* Recursos
-
-## Concello Lugo
-
-`Archivos y recursos para Concello de Lugo`
-
-### Auxiliar Administrativo [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO)
-
-* Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
-* Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
+- Ficha oposición (libre)[enlace](http://bit.ly/2IEmIJT)
+- Presentaciones
+- Ejercicios
+  - Word 2010 [enlace](http://bit.ly/2Mr3Azp)
+  - Excel 2010 [enlace](http://bit.ly/2N7T0m6)
+  - Access 2010 [enlace](http://bit.ly/2Nd0i87)
+- Cuestionarios
+- Recursos
 
 ## SERGAS
 
@@ -30,18 +21,19 @@
 
 ### Auxiliar/PSX [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX)
 
-* Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-C2_Auxiliar_2017_-1.pdf)
-* Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
-* Ejercicios
-  * LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
-  * LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
-* Cuestionarios [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/CUESTIONARIOS.md)
-* Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
+- Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-C2_Auxiliar_2017_-1.pdf)
+- Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
+- Ejercicios
+  - Antiguos
+    - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
+    - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
+- Cuestionarios [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/CUESTIONARIOS.md)
+- Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
 
 ### Celadores [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES)
 
-* Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-Celador_2017.pdf)
-* Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES/PRESENTACIONES)
+- Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-Celador_2017.pdf)
+- Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES/PRESENTACIONES)
 
 ## Xunta
 
@@ -49,8 +41,17 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 
 ### Auxiliar Xunta
 
-* Ficha oposición libre [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/05/Xunta-funcionarios-c2-auxiliar-administrativo-libre_OPE2016_2017.pdf)
-* Ejercicios
-  * LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
-  * LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
-* Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
+- Ficha oposición libre [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/05/Xunta-funcionarios-c2-auxiliar-administrativo-libre_OPE2016_2017.pdf)
+- Ejercicios
+  - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
+  - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
+- Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
+
+## Concello Lugo
+
+`Archivos y recursos para Concello de Lugo`
+
+### Auxiliar Administrativo [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO)
+
+- Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
+- Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
