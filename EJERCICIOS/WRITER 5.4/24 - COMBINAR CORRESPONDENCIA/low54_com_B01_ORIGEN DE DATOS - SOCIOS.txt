@@ -1,0 +1,9 @@
+Tratamiento;Nombre;Apellidos;Dirección;Código Postal;Ciudad;Provincia
+Sr.;Juan Carlos;Pereira Barral;Rua Nueva 7, 2º B;32004;Ourense;Ourense
+Sra.;Marta;Salgo Pérez;Avda. Buenos aires, 7;32004;Ourense;Ourense
+Sr.;Mariano;Linares Hernández;C/ Calvario;28028;Madrid;Madrid
+Sra.;Ana;Quintana Díaz;Paseo Don Antonio Huertas, 9;13700;Tomelloso;Ciudad Real
+Sr.;Miguel;Cuadrado Pérez;C/ Santa Ana, 8;13000;Ciudad Real;Ciudad Real
+Sr.;Carlos;Cantero Granados;C/ El Monte, 100;13500;Socuéllamos;Ciudad Real
+Sr.;Francisco;Sousa Meiras;C/ Amor Ruibal, 8;15702;Santiago de Compostela;A Coruña
+Sra.;María;Vilas Vivanco;Rúa Castelao, 159;27297;Lugo;Lugo
