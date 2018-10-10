@@ -24,6 +24,7 @@
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-C2_Auxiliar_2017_-1.pdf)
 - Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
 - Ejercicios
+  - LibreOffice Writer 6.1 [enlace](http://bit.ly/2OKmXsD "Ejercicios de LibreOffice Writer 6.1")
   - Antiguos
     - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
     - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
