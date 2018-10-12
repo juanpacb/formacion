@@ -12,7 +12,7 @@
   - Word 2010 [enlace](http://bit.ly/2Mr3Azp)
   - Excel 2010 [enlace](http://bit.ly/2N7T0m6)
   - Access 2010 [enlace](http://bit.ly/2Nd0i87)
-- Cuestionarios
+- Cuestionarios [enlace](http://bit.ly/2OPfWqv)
 - Recursos
 
 ## SERGAS
@@ -28,13 +28,14 @@
   - Antiguos
     - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
     - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
-- Cuestionarios [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/CUESTIONARIOS.md)
+- Cuestionarios [enlace](http://bit.ly/2OPfWqv)
 - Recursos [enlace](http://bit.ly/2NE19Ko)
 
 ### Celadores
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-Celador_2017.pdf)
 - Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES/PRESENTACIONES)
+- Cuestionarios [enlace](http://bit.ly/2OPfWqv)
 
 ## Xunta
 
@@ -56,3 +57,4 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
 - Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
+- Cuestionarios [enlace](http://bit.ly/2OPfWqv)
