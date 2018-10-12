@@ -6,7 +6,7 @@
 
 ## Sotware
 
-- LibreOffice 5.4.4.2 [enlace](https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.4.2/win/x86_64/LibreOffice_5.4.4.2_Win_x64.msi "LibreOffice 5.4.5.4")
+- LibreOffice 5.4.4.2 [enlace](https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.4.2/win/x86_64/LibreOffice_5.4.4.2_Win_x64.msi "LibreOffice 5.4.4.2")
   - Versión de LibreOffice ofrecida y alojada en LibreOffice.org
 
 ## Writer
