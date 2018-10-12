@@ -46,7 +46,7 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 - Ejercicios
   - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
   - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
-- Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
+- Recursos [enlace](http://bit.ly/2CcEIdm)
 
 ## Concello Lugo
 
