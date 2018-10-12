@@ -19,7 +19,7 @@
 
 `Archivos y recursos para SERGAS`
 
-### Auxiliar/PSX [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX)
+### Auxiliar/PSX
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-C2_Auxiliar_2017_-1.pdf)
 - Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
@@ -31,7 +31,7 @@
 - Cuestionarios [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/CUESTIONARIOS.md)
 - Recursos [enlace](http://bit.ly/2NE19Ko)
 
-### Celadores [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES)
+### Celadores
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-Celador_2017.pdf)
 - Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES/PRESENTACIONES)
@@ -52,7 +52,7 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 
 `Archivos y recursos para Concello de Lugo`
 
-### Auxiliar Administrativo [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO)
+### Auxiliar Administrativo
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
 - Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
