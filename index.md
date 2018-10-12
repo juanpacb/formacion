@@ -13,7 +13,7 @@
   - Excel 2010 [enlace](http://bit.ly/2N7T0m6)
   - Access 2010 [enlace](http://bit.ly/2Nd0i87)
 - Cuestionarios [enlace](http://bit.ly/2OPfWqv)
-- Recursos
+- Recursos [enlace](http://bit.ly/2CcKsnd)
 
 ## SERGAS
 
