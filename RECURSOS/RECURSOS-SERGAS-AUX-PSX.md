@@ -1,4 +1,8 @@
-# Recursos
+# Recursos SERGAS AUX/PSX
+
+## Oposición
+
+- Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-C2_Auxiliar_2017_-1.pdf)
 
 ## Hardware
 

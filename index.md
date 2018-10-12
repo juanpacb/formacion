@@ -29,7 +29,7 @@
     - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
     - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
 - Cuestionarios [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/CUESTIONARIOS.md)
-- Recursos [enlace](https://github.com/juanpacb/formacion/blob/master/SERGAS/AUXILIAR%20-%20PSX/RECURSOS.md)
+- Recursos [enlace](http://bit.ly/2NE19Ko)
 
 ### Celadores [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES)
 
