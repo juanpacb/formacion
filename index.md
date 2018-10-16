@@ -8,6 +8,7 @@
 
 - Ficha oposición (libre) [enlace](http://bit.ly/2IEmIJT)
 - Presentaciones
+  - Hardware [enlace](http://bit.ly/hardfundpre)
 - Ejercicios
   - Word 2010 [enlace](http://bit.ly/2Mr3Azp)
   - Excel 2010 [enlace](http://bit.ly/2N7T0m6)
@@ -22,9 +23,10 @@
 ### Auxiliar/PSX
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-C2_Auxiliar_2017_-1.pdf)
-- Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/AUXILIAR%20-%20PSX/PRESENTACIONES)
+- Presentaciones
+  - Hardware [enlace](http://bit.ly/harmediopre)
 - Ejercicios
-  - LibreOffice Writer 6.1 [enlace](http://bit.ly/2OKmXsD "Ejercicios de LibreOffice Writer 6.1")
+  - LibreOffice Writer 6.1 [enlace](http://bit.ly/2OKmXsD 'Ejercicios de LibreOffice Writer 6.1')
   - Antiguos
     - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
     - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
@@ -34,7 +36,8 @@
 ### Celadores
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-Celador_2017.pdf)
-- Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/SERGAS/CELADORES/PRESENTACIONES)
+- Presentaciones
+  - Hardware [enlace](http://bit.ly/hardfundpre)
 - Cuestionarios [enlace](http://bit.ly/2CF6EHP)
 
 ## Xunta
@@ -56,5 +59,5 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 ### Auxiliar Administrativo
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
-- Presentaciones [enlace](https://github.com/juanpacb/formacion/tree/master/CONCELLO%20LUGO/PRESENTACIONES)
+- Presentaciones [enlace](http://bit.ly/harmediopre)
 - Cuestionarios [enlace](http://bit.ly/2CF6EHP)
