@@ -59,5 +59,6 @@ Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tr
 ### Auxiliar Administrativo
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/02/AUXILAR_ADMINISTRATIVO_CONCELLO-DE-LUGO-1.pdf)
-- Presentaciones [enlace](http://bit.ly/harmediopre)
+- Presentaciones
+  - Hardware [enlace](http://bit.ly/harmediopre)
 - Cuestionarios [enlace](http://bit.ly/2CF6EHP)
