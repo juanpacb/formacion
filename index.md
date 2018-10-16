@@ -8,7 +8,7 @@
 
 - Ficha oposición (libre) [enlace](http://bit.ly/2IEmIJT)
 - Presentaciones
-  - Hardware [enlace](http://bit.ly/hardfundpre)
+  - Hardware [enlace](http://bit.ly/2ElAcf8)
 - Ejercicios
   - Word 2010 [enlace](http://bit.ly/2Mr3Azp)
   - Excel 2010 [enlace](http://bit.ly/2N7T0m6)
@@ -37,7 +37,7 @@
 
 - Ficha oposición [enlace](http://www.informateoposiciones.es/wp-content/uploads/2018/03/Sergas-personal-estatutario-Celador_2017.pdf)
 - Presentaciones
-  - Hardware [enlace](http://bit.ly/hardfundpre)
+  - Hardware [enlace](http://bit.ly/2ElAcf8)
 - Cuestionarios [enlace](http://bit.ly/2CF6EHP)
 
 ## Xunta
