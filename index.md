@@ -42,7 +42,7 @@
 
 ## Xunta
 
-Archivos y recursos para Xunta [enlace](https://github.com/juanpacb/formacion/tree/master/XUNTA)
+`Archivos y recursos para Xunta`
 
 ### Auxiliar Xunta
 
