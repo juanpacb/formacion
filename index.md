@@ -27,6 +27,7 @@
   - Hardware [enlace](http://bit.ly/harmediopre)
 - Ejercicios
   - LibreOffice Writer 6.1 [enlace](http://bit.ly/2OKmXsD 'Ejercicios de LibreOffice Writer 6.1')
+  - LibreOffice Calc 6.1 [enlace](http://bit.ly/2yS3b4k 'Ejercicios de LibreOffice Calc 6.1')
   - Antiguos
     - LibreOffice Writer 5.4 [enlace](http://bit.ly/2NazvcN)
     - LibreOffice Calc 5.4 [enlace](http://bit.ly/2xfvhqn)
