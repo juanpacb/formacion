@@ -12,7 +12,7 @@
 ## Sotware
 
 - :fire:![alt-text](https://wiki.documentfoundation.org/images/5/58/LibreOffice_external_logo_100px.png 'Logo LibreOffice')
-  - LibreOffice Versión Estable Oficial (6.1.4) [enlace](https://bit.ly/2SXXFJw 'LibreOffice Versión Estable Oficial (6.1+)')
+  - LibreOffice Versión Estable Oficial (6.1.4) [enlace](https://bit.ly/2SXXFJw 'LibreOffice Versión Estable Oficial (6.1.4)')
     - Versión de LibreOffice ofrecida y alojada en LibreOffice.org
 
 ## Writer
