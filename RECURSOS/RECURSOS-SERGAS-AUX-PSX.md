@@ -22,7 +22,7 @@ Manuales en castellano y con licencia **Creative Commons**
 - :fire: Ricardo Gabriel Berlasso, _Domando al escritor_ (LibreOffice Writer 6.1). Edición 2018. Licencia: CCBYSA [enlace](http://bit.ly/2Pj7L2E 'Ricardo Gabriel Berlasso - Domando al escritor')
 
 - LibreOffice, _Primeros pasos con LibreOffice 3.3_. Licencia: CCBY [enlace](https://wiki.documentfoundation.org/images/b/b9/0100GS3-PrimerosPasosConLibO.pdf 'LibreOffice - Primeros pasos con LibreOffice 3.3')
-- LibreOffice, _Primeros pasos con Writer 5.2_. Licencia: CCBY [enlace](https://wiki.documentfoundation.org/images/8/8d/0104GS3-PrimerosPasosConWriter.pdf 'LibreOffice - Primeros pasos con Writer 5.2')
+- LibreOffice, _Primeros pasos con Writer 5.2_. Licencia: CCBY [enlace](http://bit.ly/2E46cAW 'LibreOffice - Primeros pasos con Writer 5.2')
 
 ## Calc
 
