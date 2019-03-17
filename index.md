@@ -1,3 +1,2 @@
-# Formación
-
-Página movida a <https://repoinformatica.wordpress.com/>
+# Página movida a 
+<https://repoinformatica.wordpress.com/>
