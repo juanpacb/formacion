@@ -1,0 +1,7 @@
+﻿Nombre;Apellido;Dirección;Sexo;CP;Ciudad;Provincia;Teléfono
+María;Fernández;C/ Gijón, 11;Mujer;43006;Oviedo;Asturias;555 000 111
+Pedro;Gacía;C/ Argentina, 23;Hombre;27085;Córdoba;Córdoba;555 221 324
+Pablo;Pérez;C/ El Larguero, 5;Hombre;28008;Aranjuez;Madrid;555 245 233
+Ana;Rojas;C/ Ancha, 25;Mujer;28012;Madrid;Madrid;555 478 596
+Lorena;Suárez;C/ Húmedo, 9;Mujer;08009;Barcelona;Barcelona;555 666 887
+
